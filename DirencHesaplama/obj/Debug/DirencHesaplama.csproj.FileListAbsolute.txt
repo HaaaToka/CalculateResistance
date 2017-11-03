@@ -1,0 +1,17 @@
+C:\Users\Okan\Documents\Visual Studio 2012\Projects\DirencHesaplama\DirencHesaplama\obj\Debug\DirencHesaplama.csprojResolveAssemblyReference.cache
+C:\Users\Okan\Documents\Visual Studio 2012\Projects\DirencHesaplama\DirencHesaplama\obj\Debug\DirencHesaplama.Form1.resources
+C:\Users\Okan\Documents\Visual Studio 2012\Projects\DirencHesaplama\DirencHesaplama\obj\Debug\DirencHesaplama.Properties.Resources.resources
+C:\Users\Okan\Documents\Visual Studio 2012\Projects\DirencHesaplama\DirencHesaplama\obj\Debug\DirencHesaplama.csproj.GenerateResource.Cache
+C:\Users\Okan\Documents\Visual Studio 2012\Projects\DirencHesaplama\DirencHesaplama\bin\Debug\DirencHesaplama.exe
+C:\Users\Okan\Documents\Visual Studio 2012\Projects\DirencHesaplama\DirencHesaplama\bin\Debug\DirencHesaplama.pdb
+C:\Users\Okan\Documents\Visual Studio 2012\Projects\DirencHesaplama\DirencHesaplama\obj\Debug\DirencHesaplama.exe
+C:\Users\Okan\Documents\Visual Studio 2012\Projects\DirencHesaplama\DirencHesaplama\obj\Debug\DirencHesaplama.pdb
+G:\Performans\DirencHesaplama\DirencHesaplama\obj\Debug\DirencHesaplama.exe
+G:\Performans\DirencHesaplama\DirencHesaplama\obj\Debug\DirencHesaplama.pdb
+G:\Performans\DirencHesaplama\DirencHesaplama\bin\Debug\DirencHesaplama.exe
+G:\Performans\DirencHesaplama\DirencHesaplama\bin\Debug\DirencHesaplama.pdb
+G:\Performans\DirencHesaplama\DirencHesaplama\obj\Debug\ResolveAssemblyReference.cache
+G:\Performans\DirencHesaplama\DirencHesaplama\obj\Debug\DirencHesaplama.Form1.resources
+G:\Performans\DirencHesaplama\DirencHesaplama\obj\Debug\DirencHesaplama.Properties.Resources.resources
+G:\Performans\DirencHesaplama\DirencHesaplama\obj\Debug\GenerateResource.read.1.tlog
+G:\Performans\DirencHesaplama\DirencHesaplama\obj\Debug\GenerateResource.write.1.tlog
